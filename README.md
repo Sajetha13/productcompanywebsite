@@ -723,10 +723,10 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/out1.PNG)
-![output](./images/out2.PNG)
-![output](./images/out3.PNG)
-![output](./images/out4.PNG)
+![output](out1.PNG)
+![output](out2.PNG)
+![output](out3.PNG)
+![output](out4.PNG)
 
 ## Result:
 
